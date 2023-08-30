@@ -9,7 +9,7 @@ Inspired by gofmt.
 
 ## Example
 
-```asm
+```
 # Program to add two plus three 
 .text
    .globl  main
@@ -24,7 +24,7 @@ main:
 
 becomes
 
-```asm
+```
 ## Program to add two plus three 
         .text  
         .globl main
